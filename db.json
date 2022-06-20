@@ -61,7 +61,7 @@
       "age": 4,
       "weight": 5,
       "name": "Hemingway",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "24064151-0d34-4b9e-ba29-d4289bda8fe6",
@@ -70,7 +70,7 @@
       "age": 9,
       "weight": 4,
       "name": "Radar",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "18854fc7-00c9-4d6a-b3c6-bfd9a06ce1e7",
@@ -160,7 +160,7 @@
       "age": 6,
       "weight": 5,
       "name": "Ivy",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "103bf0d9-00a3-41d4-b980-a2f3518a6b15",
@@ -259,7 +259,7 @@
       "age": 4,
       "weight": 3,
       "name": "Dori",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "2940aa06-6e1f-4dfe-a6bc-9a2517547cc3",
@@ -277,7 +277,7 @@
       "age": 10,
       "weight": 4,
       "name": "Ham",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "bf60344b-8674-451b-b39a-df59e54986e6",
@@ -295,7 +295,7 @@
       "age": 2,
       "weight": 5,
       "name": "Grim",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "f20db164-e63e-45e9-80df-d687988e1f09",
